@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\bin\Debug\RevStack.Configuration.dll
+\\psf\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\bin\Debug\RevStack.Configuration.pdb
+\\psf\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\obj\Debug\RevStack.Configuration.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\obj\Debug\RevStack.Configuration.dll
+\\psf\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\obj\Debug\RevStack.Configuration.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\bin\Debug\RevStack.Configuration.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\bin\Debug\RevStack.Configuration.pdb
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\obj\Debug\RevStack.Configuration.dll
+\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\obj\Debug\RevStack.Configuration.pdb

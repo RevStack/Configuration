@@ -1,0 +1,19 @@
+{
+  "name": "RevStack.Configuration",
+  "version": "1.0.0",
+  "description": "Shared configuration settings",
+  "main": "RevStack.Endpoint.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStack/Configuration.git"
+  },
+  "author": "S. Francis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RevStack/Configuration/issues"
+  },
+  "homepage": "https://github.com/RevStack/Configuration"
+}
