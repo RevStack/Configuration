@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>RevStack.Configuration</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>RevStack.Configuration</title>
     <authors>Scott Francis, David Sheets</authors>
     <owners>D. Sheets, S. Francis</owners>
