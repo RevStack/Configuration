@@ -1,4 +1,0 @@
-\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\bin\Release\RevStack.Configuration.dll
-\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\bin\Release\RevStack.Configuration.pdb
-\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\obj\Release\RevStack.Configuration.dll
-\\Mac\Home\Documents\Development\mono\RevStack\updated\RevStack.Configuration\RevStack.Configuration\obj\Release\RevStack.Configuration.pdb
